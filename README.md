@@ -1,5 +1,5 @@
 # TCP-py
-Simple TCP networking tools written in Python 2
+Simple TCP networking tools written in Python 2, in process of porting to Python3
 
 ### client_tcp.py
 TCP client that sends and receives data
